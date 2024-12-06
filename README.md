@@ -90,6 +90,9 @@ O arquivo contém seletores para:
     5. /*Definir as configurações para diferentes tamanhos de tela (telas de tamanho grande, como computadores, notebooks, monitores ou televisores)*/
     6. /*Definir as configurações para a versão mobile(telefones, celulares)*/
 
+## Uso de Branches e Merges 
+Facilitou muito a adição de novas funcionalidades ou correções no código sem afetar-lo diretamente.O que me permitiu integrar o trabalho e consolidar etapas de desenvolvimento do projetos. Elas mantem o código organizado e as merges asseguram que todas as mudanças sejam integradas de maneira coesa. Sendo muito útil no ambiente de desenvolvimento. No entanto, houve muita dificuldade para me adaptar ao uso da ferramenta, pois ocorreram vários problemas de compatibilidade e reconhecimento com minhas respectivas ferramentas de desenvolvimento e foram várias tentativas até obter sucesso.
+
 ### Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.mdpara mais detalhes.
 
